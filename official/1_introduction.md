@@ -1,6 +1,11 @@
 #简介
 
-RxJava是 ReactiveX (Reactive Extensions)在JVM上的实现:一个使用 *observable sequences* 组合异步事件流的库.
+##名词解释
+
+observable sequences： 没有翻译，直译是“可观察序列”，感觉也不是很直观。
+
+##正文
+RxJava是 ReactiveX (Reactive Extensions)在JVM上的实现:一个使用 *observable sequences* 综合了异步和基于事件驱动编程的库包
 
 更多关于ReactiveX的信息可以移步[ReactiveX](http://reactivex.io/intro.html).
 
