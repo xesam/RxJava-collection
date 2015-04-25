@@ -1,7 +1,7 @@
 # RxJava-collection
 RxJava中文手册,资料,翻译收集
 
-##官方文档
+##官方文档翻译 beta 0.1
 
 [简介](official/1_introduction.md)
 
