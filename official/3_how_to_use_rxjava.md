@@ -1,6 +1,13 @@
-##Hello World!
+#Hello World!
 
-下面的例子创建一个 Observable(可观察量) 字符串序列,然后使用一个打印"Hello ${String}!"的操作来订阅这个可观察量,每当这个可观察量 emit 一个字符串的时候,这个操作就会打印出这个字符串.
+####名词说明
+Observable 没有翻译, 可观察量. 请自己对应常见观察者模式中的被观察者,或者发布/订阅者模式中的发布者
+emit 同理,类似于发布者发布一个消息
+
+
+#正文
+
+下面的例子创建一个 *Observable* 字符串序列,然后使用一个打印"Hello ${String}!"的操作来订阅这个可观察量,每当这个可观察量 *emit* 一个字符串的时候,这个操作就会打印出这个字符串.
 
 完整示例代码参见 :
 
@@ -70,20 +77,26 @@
     Hello George!
 
 #怎样使用RxJava
+使用RxJava的大致流程
+
+1. 创建 *Observable*, *Observable* 会 *emit* 数据项
+2. 对 *Observable* 进行相应的变换, 获得真正感兴趣的数据类型
+3. 对最终获得的感兴趣数据类型序列进行操作
+
+##创建 *Observable*
 
 
-##创建 Observable
 
-###从现有的数据结构中创建 Observable
+###从现有的数据结构中创建 *Observable*
 
-###使用create()方法创建 Observable
+###使用create()方法创建 *Observable*
 
-####Synchronous Observable Example
+####Synchronous *Observable* Example
 
 
-####Asynchronous Observable Example
+####Asynchronous *Observable* Example
 
-##使用 Operator 对 Observable 进行变换
+##使用 Operator 对 *Observable* 进行变换
 
 
 ##错误处理
