@@ -2,7 +2,7 @@
 
 下面的例子创建一个可观察的(Observable)字符串序列,然后使用一个打印"Hello ${String}!"的操作来订阅这个可观察对象,每当这个可观察对象 emit 一个字符串的时候,这个操作就会打印出这个字符串.
 
-其他语言的完整示例代码参见 :
+完整示例代码参见 :
 
 [RxGroovy examples](https://github.com/ReactiveX/RxGroovy/tree/1.x/src/examples/groovy/rx/lang/groovy/examples)
 [RxClojure examples](https://github.com/ReactiveX/RxClojure/tree/0.x/src/examples/clojure/rx/lang/clojure/examples)
