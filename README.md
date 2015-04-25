@@ -11,7 +11,7 @@ RxJava中文手册,资料,翻译收集
 
 
 ##其他优秀文章
-
+1. [什么是函数响应式编程](posts/what_is_FRP.md)
 1. [深入浅出RxJava（一:基础篇）](http://belial.me/?p=123)
 2. [深入浅出RxJava（二：操作符）](http://belial.me/?p=127)
 3. [深入浅出RxJava（三：响应式的好处）](http://belial.me/?p=130)
