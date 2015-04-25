@@ -1,6 +1,6 @@
 ##Hello World!
 
-下面的例子创建一个可观察的(Observable)字符串序列,然后使用一个打印"Hello ${String}!"的操作来订阅这个可观察对象,每当这个可观察对象 emit 一个字符串的时候,这个操作就会打印出这个字符串.
+下面的例子创建一个 Observable(可观察量) 字符串序列,然后使用一个打印"Hello ${String}!"的操作来订阅这个可观察量,每当这个可观察量 emit 一个字符串的时候,这个操作就会打印出这个字符串.
 
 完整示例代码参见 :
 
@@ -69,11 +69,24 @@
     Hello Ben!
     Hello George!
 
-##怎样使用RxJava
+#怎样使用RxJava
 
 
+##创建 Observable
+
+###从现有的数据结构中创建 Observable
+
+###使用create()方法创建 Observable
+
+####Synchronous Observable Example
 
 
+####Asynchronous Observable Example
+
+##使用 Operator 对 Observable 进行变换
+
+
+##错误处理
 
 
 
