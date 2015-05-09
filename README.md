@@ -5,13 +5,13 @@ RxJava中文手册,资料,翻译收集
 
 一边学习，一边翻译， 还没有整理和校对， 请优先参考原始文档。
 
-[简介](official/1_introduction.md)
+1. [简介](official/1_introduction.md)
 
-[开始](official/2_getting_started.md)
+1. [开始](official/2_getting_started.md)
 
-[如何开始](official/3_how_to_use_rxjava.md)
+1. [如何开始](official/3_how_to_use_rxjava.md)
 
-[补充资料](official/4_Additional_Reading.md)
+1. [补充资料](official/4_Additional_Reading.md)
 
 ##其他优秀文章
 1. [什么是函数响应式编程](posts/what_is_FRP.md)
