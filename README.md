@@ -13,6 +13,8 @@ RxJava中文手册,资料,翻译收集
 
 1. [补充资料](official/4_Additional_Reading.md)
 
+1. [Observable](official/5_Observable.md)
+
 ##其他优秀文章
 1. [什么是函数响应式编程](posts/what_is_FRP.md)
 1. [深入浅出RxJava（一:基础篇）](http://belial.me/?p=123)

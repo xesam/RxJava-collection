@@ -1,4 +1,4 @@
-#Hello World!
+#how_to_use_rxjava
 
 ####名词说明
 1. Observable 没有翻译, 可观察量. 类似于(但不等同)常见观察者模式中的被观察者,或者发布/订阅者模式中的发布者
