@@ -19,6 +19,7 @@ RxJava中文手册,资料,翻译收集
 1. [什么是函数响应式编程](posts/what_is_FRP.md)
 1. [那些年我们错过的响应式编程](https://github.com/benjycui/introrx-chinese-edition)
 1. [函数响应式事件处理编程](http://www.rustup.com/han-shu-xiang-ying-shi-shi-jian-chu-li-bian-cheng.html)
+1. [什么是 ReactiveX？](http://mrfu.me/android/2015/11/11/Getting_Started_with_RxJava_and_Android/)
 
 ##深入浅出RxJava
 1. [深入浅出RxJava（一:基础篇）](http://belial.me/?p=123)
