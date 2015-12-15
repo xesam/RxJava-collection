@@ -29,3 +29,6 @@ RxJava中文手册,资料,翻译收集
 2. [深入浅出RxJava（二：操作符）](http://belial.me/?p=127)
 3. [深入浅出RxJava（三：响应式的好处）](http://belial.me/?p=130)
 4. [深入浅出RxJava（四：响应式安卓开发）](http://belial.me/?p=132)
+
+#开源翻译
+[RxDocs](https://github.com/mcxiaoke/RxDocs)
