@@ -20,6 +20,7 @@ RxJava中文手册,资料,翻译收集
 1. [那些年我们错过的响应式编程](https://github.com/benjycui/introrx-chinese-edition)
 1. [函数响应式事件处理编程](http://www.rustup.com/han-shu-xiang-ying-shi-shi-jian-chu-li-bian-cheng.html)
 1. [什么是 ReactiveX？](http://mrfu.me/android/2015/11/11/Getting_Started_with_RxJava_and_Android/)
+1. [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
 
 ##Android
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
@@ -30,5 +31,8 @@ RxJava中文手册,资料,翻译收集
 3. [深入浅出RxJava（三：响应式的好处）](http://belial.me/?p=130)
 4. [深入浅出RxJava（四：响应式安卓开发）](http://belial.me/?p=132)
 
-#开源翻译
+##开源翻译
 [RxDocs](https://github.com/mcxiaoke/RxDocs)
+
+##书籍
+[《RxJava Essentials》](http://www.amazon.cn/RxJava-Essentials-Morgillo-Ivan/dp/1784399108/ref=sr_1_1?sr=8-1&keywords=RxJava+Essentials)
