@@ -36,3 +36,5 @@ RxJava中文手册,资料,翻译收集
 
 ##书籍
 [《RxJava Essentials》](http://www.amazon.cn/RxJava-Essentials-Morgillo-Ivan/dp/1784399108/ref=sr_1_1?sr=8-1&keywords=RxJava+Essentials)
+
+[《RxJava Essentials》中文翻译](https://github.com/yuxingxin/RxJava-Essentials-CN)
