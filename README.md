@@ -6,13 +6,9 @@ RxJava中文手册,资料,翻译收集
 一边学习，一边翻译， 还没有整理和校对， 请优先参考原始文档。
 
 1. [简介](official/1_introduction.md)
-
 1. [开始](official/2_getting_started.md)
-
 1. [如何开始](official/3_how_to_use_rxjava.md)
-
 1. [补充资料](official/4_Additional_Reading.md)
-
 1. [Observable](official/5_Observable.md)
 
 ##阅读资料
@@ -21,9 +17,11 @@ RxJava中文手册,资料,翻译收集
 1. [函数响应式事件处理编程](http://www.rustup.com/han-shu-xiang-ying-shi-shi-jian-chu-li-bian-cheng.html)
 1. [什么是 ReactiveX？](http://mrfu.me/android/2015/11/11/Getting_Started_with_RxJava_and_Android/)
 1. [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
+1. [RxJava 入门](http://mrfu.me/android/2015/11/11/Getting_Started_with_RxJava_and_Android/)
 
 ##Android
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+[使用 RxJava 来改进用户体验](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1130/3736.html)
 
 ##深入浅出RxJava
 1. [深入浅出RxJava（一:基础篇）](http://belial.me/?p=123)
