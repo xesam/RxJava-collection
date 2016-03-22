@@ -22,6 +22,7 @@ RxJava中文手册,资料,翻译收集
 ##Android
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 [使用 RxJava 来改进用户体验](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1130/3736.html)
+[使用 RxJava 跨页面更新控件](http://www.wangchenlong.org/2016/03/20/1603/205-rx-continue-update/)
 
 ##深入浅出RxJava
 1. [深入浅出RxJava（一:基础篇）](http://belial.me/?p=123)
