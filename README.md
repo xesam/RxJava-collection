@@ -1,11 +1,11 @@
 # RxJava-collection
 RxJava中文手册,资料,翻译收集
 
-## 官方文档翻译
+## ReactiveX 官方文档翻译
 
 [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/)
 
-## 官方文档翻译 beta 0.1
+## RxJava 官方文档翻译 beta 0.1
 
 一边学习，一边翻译， 还没有整理和校对， 请优先参考原始文档。
 
