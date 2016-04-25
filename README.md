@@ -22,11 +22,13 @@ RxJava中文手册,资料,翻译收集
 1. [什么是 ReactiveX？](http://mrfu.me/android/2015/11/11/Getting_Started_with_RxJava_and_Android/)
 1. [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
 1. [RxJava 入门](http://mrfu.me/android/2015/11/11/Getting_Started_with_RxJava_and_Android/)
+1. [使用 RxJava 封装现有的库](https://github.com/xitu/gold-miner/blob/master/TODO/wrapping-existing-libraries-with-rxjava.md)
 
 ## Android
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 [使用 RxJava 来改进用户体验](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1130/3736.html)
 [使用 RxJava 跨页面更新控件](http://www.wangchenlong.org/2016/03/20/1603/205-rx-continue-update/)
+[Airbnb：我们的安卓客户端是如何使用 RxJava 的](https://realm.io/cn/news/kau-felipe-lima-adopting-rxjava-airbnb-android/)
 
 ## 深入浅出RxJava
 1. [深入浅出RxJava（一:基础篇）](http://belial.me/?p=123)
