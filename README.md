@@ -23,6 +23,7 @@ RxJava中文手册,资料,翻译收集
 1. [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
 1. [RxJava 入门](http://mrfu.me/android/2015/11/11/Getting_Started_with_RxJava_and_Android/)
 1. [使用 RxJava 封装现有的库](https://github.com/xitu/gold-miner/blob/master/TODO/wrapping-existing-libraries-with-rxjava.md)
+1. [用工厂流水线的方式来理解 RxJava 的概念](https://github.com/xitu/gold-miner/blob/master/TODO/rxjava-production-line.md)
 
 ## Android
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
