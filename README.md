@@ -1,10 +1,13 @@
 # RxJava-collection
 RxJava中文手册,资料,翻译收集
 
-
 ## ReactiveX 官方文档翻译
 
 [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/)
+
+## Agera Wiki 中文版
+
+[Agera Wiki 中文版](https://github.com/captain-miao/AndroidAgeraTutorial/wiki)
 
 ## RxJava 官方文档翻译 beta 0.1
 
