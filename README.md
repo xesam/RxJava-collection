@@ -49,6 +49,9 @@ RxJava中文手册,资料,翻译收集
 1. [Shake Detector for Android with RXJava](https://techblog.badoo.com/blog/2016/06/23/shake-detector-for-android-with-rxjava/)
 2. [RxJava使用takeUntil操作实现生命周期的绑定](http://www.jianshu.com/p/48442ac68d59)
 3. [RxJava处理嵌套请求](http://www.jianshu.com/p/013accaeb34a)
+4. [打造RxJava生命周期管理框架RxLife](http://blog.csdn.net/dd864140130/article/details/53029617)
+5. [关于RxJava最友好的文章](http://gold.xitu.io/post/580103f20e3dd90057fc3e6d)
+
 
 ## 书籍
 [《RxJava Essentials》](http://www.amazon.cn/RxJava-Essentials-Morgillo-Ivan/dp/1784399108/ref=sr_1_1?sr=8-1&keywords=RxJava+Essentials)
