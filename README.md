@@ -52,10 +52,12 @@ RxJava中文手册,资料,翻译收集
 4. [打造RxJava生命周期管理框架RxLife](http://blog.csdn.net/dd864140130/article/details/53029617)
 5. [关于RxJava最友好的文章](http://gold.xitu.io/post/580103f20e3dd90057fc3e6d)
 
-
-## 书籍
-[《RxJava Essentials》](http://www.amazon.cn/RxJava-Essentials-Morgillo-Ivan/dp/1784399108/ref=sr_1_1?sr=8-1&keywords=RxJava+Essentials)
-
-[《RxJava Essentials》中文翻译](https://github.com/yuxingxin/RxJava-Essentials-CN)
-
-[Learning Reactive Programming with Java 8](https://www.packtpub.com/application-development/learning-reactive-programming-java-8)
+## 书籍（网上都有电子版下载）
+1. [《RxJava Essentials》](http://www.amazon.cn/RxJava-Essentials-Morgillo-Ivan/dp/1784399108/ref=sr_1_1?sr=8-1&keywords=RxJava+Essentials)
+2. [《RxJava Essentials》中文翻译](https://github.com/yuxingxin/RxJava-Essentials-CN)
+3. [Learning Reactive Programming with Java 8](https://www.packtpub.com/application-development/learning-reactive-programming-java-8)
+4. [Functional Reactive Programming](https://www.amazon.com/Functional-Reactive-Programming-Stephen-Blackheath/dp/1633430103/ref=sr_1_1?ie=UTF8&qid=1486197616&sr=8-1&keywords=Functional+Reactive+Programming)
+5. [Reactive Java Programming](https://www.amazon.com/Reactive-Java-Programming-Andrea-Maglie/dp/1484214293/ref=sr_1_1?ie=UTF8&qid=1486197675&sr=8-1&keywords=Reactive+Java+Programming)
+7. [Reactive Programming with RxJava](https://www.amazon.com/Reactive-Programming-RxJava-Asynchronous-Applications/dp/1491931655/ref=sr_1_3?ie=UTF8&qid=1486197616&sr=8-3&keywords=Functional+Reactive+Programming)
+6. [Reactive Programming with Node.js](https://www.amazon.com/Reactive-Programming-Node-js-Fernando-Doglio/dp/1484221516/ref=sr_1_13?ie=UTF8&qid=1486197616&sr=8-13&keywords=Functional+Reactive+Programming)
+8. [Reactive Programming with RxJS](https://www.amazon.com/Reactive-Programming-RxJS-Asynchronous-JavaScript/dp/1680501291/ref=sr_1_9?ie=UTF8&qid=1486197616&sr=8-9&keywords=Functional+Reactive+Programming)
